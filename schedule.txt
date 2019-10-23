@@ -1,0 +1,494 @@
+1 fixture
+
+Team AA - Team TT
+Team BB - Team SS
+Team CC - Team RR
+Team DD - Team QQ
+Team EE - Team PP
+Team FF - Team OO
+Team GG - Team NN
+Team HH - Team MM
+Team II - Team LL
+Team JJ - Team KK
+
+2 fixture
+
+Team TT - Team KK
+Team LL - Team JJ
+Team MM - Team II
+Team NN - Team HH
+Team OO - Team GG
+Team PP - Team FF
+Team QQ - Team EE
+Team RR - Team DD
+Team SS - Team CC
+Team AA - Team BB
+
+3 fixture
+
+Team BB - Team TT
+Team CC - Team AA
+Team DD - Team SS
+Team EE - Team RR
+Team FF - Team QQ
+Team GG - Team PP
+Team HH - Team OO
+Team II - Team NN
+Team JJ - Team MM
+Team KK - Team LL
+
+4 fixture
+
+Team TT - Team LL
+Team MM - Team KK
+Team NN - Team JJ
+Team OO - Team II
+Team PP - Team HH
+Team QQ - Team GG
+Team RR - Team FF
+Team SS - Team EE
+Team AA - Team DD
+Team BB - Team CC
+
+5 fixture
+
+Team CC - Team TT
+Team DD - Team BB
+Team EE - Team AA
+Team FF - Team SS
+Team GG - Team RR
+Team HH - Team QQ
+Team II - Team PP
+Team JJ - Team OO
+Team KK - Team NN
+Team LL - Team MM
+
+6 fixture
+
+Team TT - Team MM
+Team NN - Team LL
+Team OO - Team KK
+Team PP - Team JJ
+Team QQ - Team II
+Team RR - Team HH
+Team SS - Team GG
+Team AA - Team FF
+Team BB - Team EE
+Team CC - Team DD
+
+7 fixture
+
+Team DD - Team TT
+Team EE - Team CC
+Team FF - Team BB
+Team GG - Team AA
+Team HH - Team SS
+Team II - Team RR
+Team JJ - Team QQ
+Team KK - Team PP
+Team LL - Team OO
+Team MM - Team NN
+
+8 fixture
+
+Team TT - Team NN
+Team OO - Team MM
+Team PP - Team LL
+Team QQ - Team KK
+Team RR - Team JJ
+Team SS - Team II
+Team AA - Team HH
+Team BB - Team GG
+Team CC - Team FF
+Team DD - Team EE
+
+9 fixture
+
+Team EE - Team TT
+Team FF - Team DD
+Team GG - Team CC
+Team HH - Team BB
+Team II - Team AA
+Team JJ - Team SS
+Team KK - Team RR
+Team LL - Team QQ
+Team MM - Team PP
+Team NN - Team OO
+
+10 fixture
+
+Team TT - Team OO
+Team PP - Team NN
+Team QQ - Team MM
+Team RR - Team LL
+Team SS - Team KK
+Team AA - Team JJ
+Team BB - Team II
+Team CC - Team HH
+Team DD - Team GG
+Team EE - Team FF
+
+11 fixture
+
+Team FF - Team TT
+Team GG - Team EE
+Team HH - Team DD
+Team II - Team CC
+Team JJ - Team BB
+Team KK - Team AA
+Team LL - Team SS
+Team MM - Team RR
+Team NN - Team QQ
+Team OO - Team PP
+
+12 fixture
+
+Team TT - Team PP
+Team QQ - Team OO
+Team RR - Team NN
+Team SS - Team MM
+Team AA - Team LL
+Team BB - Team KK
+Team CC - Team JJ
+Team DD - Team II
+Team EE - Team HH
+Team FF - Team GG
+
+13 fixture
+
+Team GG - Team TT
+Team HH - Team FF
+Team II - Team EE
+Team JJ - Team DD
+Team KK - Team CC
+Team LL - Team BB
+Team MM - Team AA
+Team NN - Team SS
+Team OO - Team RR
+Team PP - Team QQ
+
+14 fixture
+
+Team TT - Team QQ
+Team RR - Team PP
+Team SS - Team OO
+Team AA - Team NN
+Team BB - Team MM
+Team CC - Team LL
+Team DD - Team KK
+Team EE - Team JJ
+Team FF - Team II
+Team GG - Team HH
+
+15 fixture
+
+Team HH - Team TT
+Team II - Team GG
+Team JJ - Team FF
+Team KK - Team EE
+Team LL - Team DD
+Team MM - Team CC
+Team NN - Team BB
+Team OO - Team AA
+Team PP - Team SS
+Team QQ - Team RR
+
+16 fixture
+
+Team TT - Team RR
+Team SS - Team QQ
+Team AA - Team PP
+Team BB - Team OO
+Team CC - Team NN
+Team DD - Team MM
+Team EE - Team LL
+Team FF - Team KK
+Team GG - Team JJ
+Team HH - Team II
+
+17 fixture
+
+Team II - Team TT
+Team JJ - Team HH
+Team KK - Team GG
+Team LL - Team FF
+Team MM - Team EE
+Team NN - Team DD
+Team OO - Team CC
+Team PP - Team BB
+Team QQ - Team AA
+Team RR - Team SS
+
+18 fixture
+
+Team TT - Team SS
+Team AA - Team RR
+Team BB - Team QQ
+Team CC - Team PP
+Team DD - Team OO
+Team EE - Team NN
+Team FF - Team MM
+Team GG - Team LL
+Team HH - Team KK
+Team II - Team JJ
+
+19 fixture
+
+Team JJ - Team TT
+Team KK - Team II
+Team LL - Team HH
+Team MM - Team GG
+Team NN - Team FF
+Team OO - Team EE
+Team PP - Team DD
+Team QQ - Team CC
+Team RR - Team BB
+Team SS - Team AA
+
+20 fixture
+
+Team TT - Team AA
+Team SS - Team BB
+Team RR - Team CC
+Team QQ - Team DD
+Team PP - Team EE
+Team OO - Team FF
+Team NN - Team GG
+Team MM - Team HH
+Team LL - Team II
+Team KK - Team JJ
+
+21 fixture
+
+Team KK - Team TT
+Team JJ - Team LL
+Team II - Team MM
+Team HH - Team NN
+Team GG - Team OO
+Team FF - Team PP
+Team EE - Team QQ
+Team DD - Team RR
+Team CC - Team SS
+Team BB - Team AA
+
+22 fixture
+
+Team TT - Team BB
+Team AA - Team CC
+Team SS - Team DD
+Team RR - Team EE
+Team QQ - Team FF
+Team PP - Team GG
+Team OO - Team HH
+Team NN - Team II
+Team MM - Team JJ
+Team LL - Team KK
+
+23 fixture
+
+Team LL - Team TT
+Team KK - Team MM
+Team JJ - Team NN
+Team II - Team OO
+Team HH - Team PP
+Team GG - Team QQ
+Team FF - Team RR
+Team EE - Team SS
+Team DD - Team AA
+Team CC - Team BB
+
+24 fixture
+
+Team TT - Team CC
+Team BB - Team DD
+Team AA - Team EE
+Team SS - Team FF
+Team RR - Team GG
+Team QQ - Team HH
+Team PP - Team II
+Team OO - Team JJ
+Team NN - Team KK
+Team MM - Team LL
+
+25 fixture
+
+Team MM - Team TT
+Team LL - Team NN
+Team KK - Team OO
+Team JJ - Team PP
+Team II - Team QQ
+Team HH - Team RR
+Team GG - Team SS
+Team FF - Team AA
+Team EE - Team BB
+Team DD - Team CC
+
+26 fixture
+
+Team TT - Team DD
+Team CC - Team EE
+Team BB - Team FF
+Team AA - Team GG
+Team SS - Team HH
+Team RR - Team II
+Team QQ - Team JJ
+Team PP - Team KK
+Team OO - Team LL
+Team NN - Team MM
+
+27 fixture
+
+Team NN - Team TT
+Team MM - Team OO
+Team LL - Team PP
+Team KK - Team QQ
+Team JJ - Team RR
+Team II - Team SS
+Team HH - Team AA
+Team GG - Team BB
+Team FF - Team CC
+Team EE - Team DD
+
+28 fixture
+
+Team TT - Team EE
+Team DD - Team FF
+Team CC - Team GG
+Team BB - Team HH
+Team AA - Team II
+Team SS - Team JJ
+Team RR - Team KK
+Team QQ - Team LL
+Team PP - Team MM
+Team OO - Team NN
+
+29 fixture
+
+Team OO - Team TT
+Team NN - Team PP
+Team MM - Team QQ
+Team LL - Team RR
+Team KK - Team SS
+Team JJ - Team AA
+Team II - Team BB
+Team HH - Team CC
+Team GG - Team DD
+Team FF - Team EE
+
+30 fixture
+
+Team TT - Team FF
+Team EE - Team GG
+Team DD - Team HH
+Team CC - Team II
+Team BB - Team JJ
+Team AA - Team KK
+Team SS - Team LL
+Team RR - Team MM
+Team QQ - Team NN
+Team PP - Team OO
+
+31 fixture
+
+Team PP - Team TT
+Team OO - Team QQ
+Team NN - Team RR
+Team MM - Team SS
+Team LL - Team AA
+Team KK - Team BB
+Team JJ - Team CC
+Team II - Team DD
+Team HH - Team EE
+Team GG - Team FF
+
+32 fixture
+
+Team TT - Team GG
+Team FF - Team HH
+Team EE - Team II
+Team DD - Team JJ
+Team CC - Team KK
+Team BB - Team LL
+Team AA - Team MM
+Team SS - Team NN
+Team RR - Team OO
+Team QQ - Team PP
+
+33 fixture
+
+Team QQ - Team TT
+Team PP - Team RR
+Team OO - Team SS
+Team NN - Team AA
+Team MM - Team BB
+Team LL - Team CC
+Team KK - Team DD
+Team JJ - Team EE
+Team II - Team FF
+Team HH - Team GG
+
+34 fixture
+
+Team TT - Team HH
+Team GG - Team II
+Team FF - Team JJ
+Team EE - Team KK
+Team DD - Team LL
+Team CC - Team MM
+Team BB - Team NN
+Team AA - Team OO
+Team SS - Team PP
+Team RR - Team QQ
+
+35 fixture
+
+Team RR - Team TT
+Team QQ - Team SS
+Team PP - Team AA
+Team OO - Team BB
+Team NN - Team CC
+Team MM - Team DD
+Team LL - Team EE
+Team KK - Team FF
+Team JJ - Team GG
+Team II - Team HH
+
+36 fixture
+
+Team TT - Team II
+Team HH - Team JJ
+Team GG - Team KK
+Team FF - Team LL
+Team EE - Team MM
+Team DD - Team NN
+Team CC - Team OO
+Team BB - Team PP
+Team AA - Team QQ
+Team SS - Team RR
+
+37 fixture
+
+Team SS - Team TT
+Team RR - Team AA
+Team QQ - Team BB
+Team PP - Team CC
+Team OO - Team DD
+Team NN - Team EE
+Team MM - Team FF
+Team LL - Team GG
+Team KK - Team HH
+Team JJ - Team II
+
+38 fixture
+
+Team TT - Team JJ
+Team II - Team KK
+Team HH - Team LL
+Team GG - Team MM
+Team FF - Team NN
+Team EE - Team OO
+Team DD - Team PP
+Team CC - Team QQ
+Team BB - Team RR
+Team AA - Team SS
+
