@@ -1,2 +1,0 @@
-# League
-Simulator of league
