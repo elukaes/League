@@ -2,7 +2,7 @@ public class Team {
     private String name;
     private short points;
     private byte wins, draws, losses;
-
+    //2 constructors
     public Team () {name = "Team"; points = 0; wins = 0; draws = 0; losses = 0;};
 
     public Team (String name) {this.name = name; points = 0; wins = 0; draws = 0; losses = 0;}
