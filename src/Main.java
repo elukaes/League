@@ -10,8 +10,7 @@ public class Main {
         Schedule schedule = new Schedule(); // rand of schedule(now always is the same)
         schedule.draw(listOfTeams);
 
-        schedule.result(schedule.readMatch(1,1,listOfTeams.size(),listOfTeams)); // play match
-        System.out.println(listOfTeams.get(0).getPoints());
-        System.out.println(listOfTeams.get(19).getPoints());
+        Match match = new Match();
+        match.result(14,5,listOfTeams.size(),listOfTeams); // play match
     }
 }
