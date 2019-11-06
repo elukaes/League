@@ -2,6 +2,7 @@ import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.util.ArrayList;
+import java.util.List;
 
 public class Schedule {
     private File file = new File("schedule.txt"); //file to write schedule
@@ -12,7 +13,7 @@ public class Schedule {
     }
 
     // draw the schedule; now always the same
-    public void draw(ArrayList listOfTeams) throws IOException {
+    public void draw(List listOfTeams) throws IOException {
         short number = (short)listOfTeams.size();
         short[][][] pairs = new short[number-1][number/2][2];
         short w;

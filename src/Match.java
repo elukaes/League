@@ -1,7 +1,6 @@
 import java.io.*;
 import java.nio.channels.FileChannel;
 import java.nio.file.Files;
-import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.List;
@@ -13,21 +12,26 @@ public class Match {
 
     //constructor
     public Match() throws IOException {
-        FileChannel readFile = new FileInputStream("schedule.txt").getChannel();
-        FileChannel writeFile = new FileOutputStream("results.txt").getChannel();
-        file.createNewFile();
         try {
-            writeFile.transferFrom(readFile, 0, readFile.size());
-        }
-        finally {
-            if (readFile != null && writeFile != null) {
-                readFile.close();
-                writeFile.close();
+            FileChannel readFile = new FileInputStream("schedule.txt").getChannel();
+            FileChannel writeFile = new FileOutputStream("results.txt").getChannel();
+            file.createNewFile();
+            try {
+                writeFile.transferFrom(readFile, 0, readFile.size());
             }
+            finally {
+                if (readFile != null && writeFile != null) {
+                    readFile.close();
+                    writeFile.close();
+                }
+            }
+        }
+        catch (FileNotFoundException e) {
+            System.out.println("File not found");
         }
     }
     // read teams which will play match
-    private Team[] readTeams(int nbFixture, int nbMatch, int nbTeams, ArrayList list) throws IOException {
+    private Team[] readTeams(int nbFixture, int nbMatch, int nbTeams, List list) throws IOException {
         // read from file pointing match
         String text = Files.lines(Paths.get("schedule.txt")).skip((nbFixture - 1) * (nbTeams / 2 + 3) + nbMatch + 1).findFirst().get();
         int dashAtPlace = 0;
@@ -50,7 +54,7 @@ public class Match {
     }
 
     //0 - home, 1 -away
-    public void result(int nbFixture, int nbMatch, int nbTeams, ArrayList list) throws IOException {
+    public void result(int nbFixture, int nbMatch, int nbTeams, List list) throws IOException {
         Team []matchTeams = new Team[2];
         matchTeams = readTeams(nbFixture, nbMatch, nbTeams, list);
         Random randResult = new Random();
@@ -71,16 +75,16 @@ public class Match {
 
         // check who win
         if (goalsOfHome > goalsOfAway){
-            matchTeams[0].addWin();
-            matchTeams[1].addLoss();
+            matchTeams[0].addWin(goalsOfHome, goalsOfAway);
+            matchTeams[1].addLoss(goalsOfAway, goalsOfHome);
         }
         else if (goalsOfHome == goalsOfAway) {
-            matchTeams[0].addDraw();
-            matchTeams[1].addDraw();
+            matchTeams[0].addDraw(goalsOfHome, goalsOfAway);
+            matchTeams[1].addDraw(goalsOfAway, goalsOfHome);
         }
         else {
-            matchTeams[0].addLoss();
-            matchTeams[1].addWin();
+            matchTeams[0].addLoss(goalsOfHome, goalsOfAway);
+            matchTeams[1].addWin(goalsOfAway, goalsOfHome);
         }
     }
 }
