@@ -15,6 +15,8 @@ public class Team {
 
     public void addGoals(int scoredGoals, int lostGoals) { this.scoredGoals=scoredGoals; this.lostGoals=lostGoals; }
 
+    public int differenceOfGoals() { return scoredGoals - lostGoals; }
+
     public byte getMatches() { return matches; }
 
     public int getPoints() { return points; }

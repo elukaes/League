@@ -1,15 +1,15 @@
 1 fixture
 
-Team AA - Team TT 6 - 3
-Team BB - Team SS 5 - 5
-Team CC - Team RR 2 - 3
-Team DD - Team QQ 4 - 1
-Team EE - Team PP 1 - 6
-Team FF - Team OO 4 - 2
-Team GG - Team NN 7 - 5
-Team HH - Team MM 2 - 7
-Team II - Team LL 3 - 4
-Team JJ - Team KK 8 - 6
+Team AA - Team TT 1 - 3
+Team BB - Team SS 3 - 1
+Team CC - Team RR 6 - 8
+Team DD - Team QQ 4 - 8
+Team EE - Team PP 1 - 3
+Team FF - Team OO 5 - 8
+Team GG - Team NN 7 - 8
+Team HH - Team MM 5 - 5
+Team II - Team LL 4 - 7
+Team JJ - Team KK 8 - 1
 
 2 fixture
 

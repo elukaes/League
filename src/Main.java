@@ -15,6 +15,7 @@ public class Main {
         for(int i = 1; i <= 10; i++)
             match.result(1,i,listOfTeams.size(),listOfTeams); // play match
         Table table = new Table();
-        table.sortTable(listOfTeams);
+        listOfTeams = table.sortTable(listOfTeams);
+        table.displayTable(listOfTeams);
     }
 }
